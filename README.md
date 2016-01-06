@@ -1,1 +1,4 @@
-# flowui
+flowui
+======
+
+A Symfony project

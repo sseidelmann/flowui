@@ -1,0 +1,4 @@
+flowui:
+    resource: "@FlowuiBundle/Resources/config/routing.yml"
+    prefix:   /
+
